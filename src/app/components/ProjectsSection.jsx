@@ -10,7 +10,7 @@ const projectsData = [
     title: "TELUS Business Connect",
     description:
       "The TELUS Business Connect® Mobile solution is a professional call handling app only for your smartphones and tablets. Spend less time managing calls and more time on your business.",
-    image: "/images/projects/1.png",
+    image: "/images/1.png",
     tag: ["All", "Web", "Mobile"],
     previewUrl: "https://www.telus.com/en/business/small/phone/cloud-phone",
   },
@@ -19,7 +19,7 @@ const projectsData = [
     title: "Limitless Martial Arts",
     description:
       "Web application of a Martial Arts School, offering classes such as Kickboxing, Boxing, Muay Thai, Taekwondo, Karate, Kung Fu and Group Fitness Classes via online training.",
-    image: "/images/projects/2.png",
+    image: "/images/2.png",
     tag: ["All", "Web"],
     previewUrl: "https://limitlessmartialarts.ca/",
   },
@@ -28,7 +28,7 @@ const projectsData = [
     title: "Pivotal General Contracting",
     description:
       "Web application of a Trusted Business Partner for providing exceptional General Contracting Services. Our comprehensive range of services includes: whole home renovation, Home Additons, etc.",
-    image: "/images/projects/3.png",
+    image: "/images/3.png",
     tag: ["All", "Web"],
     previewUrl: "https://pivotalgc.ca/",
   },
@@ -37,7 +37,7 @@ const projectsData = [
     title: "Cobrie, Restaurant & Catering",
     description:
       "Web application for a Restaurant providing online services of authentic catering, takeout and home meal delieveries by the finest chefs for the customers across Ottawa.",
-    image: "/images/projects/4.png",
+    image: "/images/4.png",
     tag: ["All", "Web"],
     previewUrl: "https://cobrie.ca/ ",
   },
@@ -46,7 +46,7 @@ const projectsData = [
     title: "H2R Business Solutions",
     description:
       "Web Application for the organization to support clients with services ranging from dedicated outsourced HR support to more complex consultative services including compensation, workforce planning, etc.",
-    image: "/images/projects/5.png",
+    image: "/images/5.png",
     tag: ["All", "Web"],
     previewUrl: "https://yourh2r.com/",
   },
@@ -55,7 +55,7 @@ const projectsData = [
     title: "Luxsonic Technologies Inc",
     description:
       "Web Application for the organization to support the healthcare industry with immersive tools that enhance medical education, professional training, and healthcare delivery",
-    image: "/images/projects/6.png",
+    image: "/images/6.png",
     tag: ["All", "Web", "Mobile"],
     previewUrl: "https://luxsonic.ca/",
   },
