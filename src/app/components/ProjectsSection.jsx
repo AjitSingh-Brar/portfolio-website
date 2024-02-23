@@ -10,7 +10,7 @@ const projectsData = [
     title: "TELUS Business Connect",
     description:
       "The TELUS Business Connect® Mobile solution is a professional call handling app only for your smartphones and tablets. Spend less time managing calls and more time on your business.",
-    image: "/static/images/1.png",
+    image: "/static/images/one.png",
     tag: ["All", "Web", "Mobile"],
     previewUrl: "https://www.telus.com/en/business/small/phone/cloud-phone",
   },
