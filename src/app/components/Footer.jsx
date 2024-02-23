@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container p-12 flex justify-between">
         <span>
           <Link href={"/"}>
-            <Image src="/images/logo.png" alt="logo" width={60} height={60} />
+            <Image src="/static/images/logo.png" alt="logo" width={60} height={60} />
           </Link>
         </span>
         <div>
