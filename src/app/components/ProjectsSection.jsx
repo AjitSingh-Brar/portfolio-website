@@ -19,7 +19,7 @@ const projectsData = [
     title: "Limitless Martial Arts",
     description:
       "Web application of a Martial Arts School, offering classes such as Kickboxing, Boxing, Muay Thai, Taekwondo, Karate, Kung Fu and Group Fitness Classes via online training.",
-    image: "/static/images/2.png",
+    image: "/static/images/two.png",
     tag: ["All", "Web"],
     previewUrl: "https://limitlessmartialarts.ca/",
   },
@@ -28,7 +28,7 @@ const projectsData = [
     title: "Pivotal General Contracting",
     description:
       "Web application of a Trusted Business Partner for providing exceptional General Contracting Services. Our comprehensive range of services includes: whole home renovation, Home Additons, etc.",
-    image: "/static/images/3.png",
+    image: "/static/images/three.png",
     tag: ["All", "Web"],
     previewUrl: "https://pivotalgc.ca/",
   },
@@ -37,7 +37,7 @@ const projectsData = [
     title: "Cobrie, Restaurant & Catering",
     description:
       "Web application for a Restaurant providing online services of authentic catering, takeout and home meal delieveries by the finest chefs for the customers across Ottawa.",
-    image: "/static/images/4.png",
+    image: "/static/images/four.png",
     tag: ["All", "Web"],
     previewUrl: "https://cobrie.ca/ ",
   },
@@ -46,7 +46,7 @@ const projectsData = [
     title: "H2R Business Solutions",
     description:
       "Web Application for the organization to support clients with services ranging from dedicated outsourced HR support to more complex consultative services including compensation, workforce planning, etc.",
-    image: "/static/images/5.png",
+    image: "/static/images/five.png",
     tag: ["All", "Web"],
     previewUrl: "https://yourh2r.com/",
   },
@@ -55,7 +55,7 @@ const projectsData = [
     title: "Luxsonic Technologies Inc",
     description:
       "Web Application for the organization to support the healthcare industry with immersive tools that enhance medical education, professional training, and healthcare delivery",
-    image: "/static/images/6.png",
+    image: "/static/images/six.png",
     tag: ["All", "Web", "Mobile"],
     previewUrl: "https://luxsonic.ca/",
   },
