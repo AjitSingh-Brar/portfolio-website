@@ -13,7 +13,7 @@ const ExperienceSection = () => {
     });
   };
   return (
-    <section className="text-white flex flex-col items-center h-full py-10">
+    <section id="experience" className="text-white flex flex-col items-center h-full py-28">
       <h2 className="text-4xl font-bold text-white mt-1 mb-5 md:mb-7">
         My Exerience
       </h2>
@@ -34,9 +34,9 @@ const ExperienceSection = () => {
         </div>
         <div className="px-5 py-5">
           <div>
-            <h2 className="text-xl mb-1">
+            <h2 className="text-xl mb-1 font-semibold">
             {COMPANY_DATA.find((company) => company.id === tab).position}{" "}
-              <span className="text-purple-500"> @ {COMPANY_DATA.find((company) => company.id === tab).companyName}</span>
+              <span className="text-primary-500"> @ {COMPANY_DATA.find((company) => company.id === tab).companyName}</span>
             </h2>
             <p className="text-sm text-slate-400 mb-2">{COMPANY_DATA.find((company) => company.id === tab).timeline}</p>
             {COMPANY_DATA.find((company) => company.id === tab).content}

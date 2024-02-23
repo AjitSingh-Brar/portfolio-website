@@ -18,9 +18,9 @@ const NavBar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
-      <div className="flex flex-wrap items-center justify-between mx-auto px-6 py-3">
-        <Link href={"/"}>
+    <nav className="fixed mx-auto border border-[#333F3F] top-0 left-0 right-0 z-20 bg-[#121212] bg-opacity-100">
+      <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-6 py-3">
+        <Link href={"/"} onClick={() => window.location.reload(false)}>
           <Image src="/images/logo.png" alt="logo" width={60} height={60} />
         </Link>
         <div className="mobile-menu block md:hidden">
